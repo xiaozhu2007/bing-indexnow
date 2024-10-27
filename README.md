@@ -44,8 +44,9 @@ npm install @xiaozhu2007/bing-indexnow
 ```
 ## Usage 🚀
 
-You need to provide your own Bing IndexNow API key when calling the `submitSitemapToBing` function
+You need to provide your own Bing IndexNow API key when calling the `submitSitemapToBing` function:
 
+```js
 const { submitSitemapToBing } = require('@xiaozhu2007/bing-indexnow');
 
 // Replace with your Bing IndexNow API key
