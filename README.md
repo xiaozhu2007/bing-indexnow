@@ -1,4 +1,4 @@
-![bing-indexnow](https://socialify.git.ci/xiaozhu2007/bing-indexnow/image?description=1&font=KoHo&language=1&name=1&owner=1&pattern=Overlapping%20Hexagons&theme=Auto)
+![bing-indexnow](https://socialify.git.ci/xiaozhu2007/bing-indexnow/image?description=1&descriptionEditable=A%20Node.js%20module%20for%20submitting%20your%20sitemap%20to%20Bing%27s%20IndexNow%20service.&font=Jost&language=1&name=1&owner=1&pattern=Circuit%20Board&theme=Auto)
 
 <p align="center">
   <img
@@ -33,7 +33,7 @@
     src="https://img.shields.io/npm/v/%40xiaozhu2007%2Fbing-indexnow?style=for-the-badge"
   />
   <br />
-  ⭐️ Your Star is very inmportant for me!
+  ⭐️ Your Star is very important for me!
 </p>
 
 # Bing IndexNow Sitemap Submission 🌟
