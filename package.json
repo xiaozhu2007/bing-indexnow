@@ -1,0 +1,32 @@
+{
+  "name": "@xiaozhu2007/bing-indexnow",
+  "version": "1.0.0",
+  "description": "A Node.js module to submit sitemaps to Bing IndexNow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pub": "npm publish --access public",
+    "bump:patch": "npm version patch",
+    "bump:minor": "npm version minor",
+    "bump:major": "npm version major"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "xml2js": "^0.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhu2007/bing-indexnow.git"
+  },
+  "keywords": [
+    "bing",
+    "indexnow",
+    "sitemap"
+  ],
+  "author": "xiaozhu2007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaozhu2007/bing-indexnow/issues"
+  },
+  "homepage": "https://github.com/xiaozhu2007/bing-indexnow#readme"
+}
