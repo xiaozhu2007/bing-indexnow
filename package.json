@@ -1,6 +1,6 @@
 {
   "name": "@xiaozhu2007/bing-indexnow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js module to submit sitemaps to Bing IndexNow.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,10 @@
     "indexnow",
     "sitemap"
   ],
-  "author": "xiaozhu2007",
+  "author": "xiaozhu2007 <im@932.moe>",
+  "contributors": [
+    "WolfYangFan <admin@993686.xyz> (https://github.com/WolfYangFan)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiaozhu2007/bing-indexnow/issues"

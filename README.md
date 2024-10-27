@@ -29,6 +29,9 @@
   <img
     src="https://img.shields.io/github/issues-closed-raw/xiaozhu2007/bing-indexnow?style=for-the-badge"
   />
+  <img
+    src="https://img.shields.io/npm/v/%40xiaozhu2007%2Fbing-indexnow?style=for-the-badge"
+  />
   <br />
   ⭐️ Your Star is very inmportant for me!
 </p>
@@ -59,3 +62,10 @@ submitSitemapToBing(sitemapUrl, apiKey)
   .then(() => console.log('Sitemap submitted successfully.'))
   .catch(err => console.error('Failed to submit sitemap:', err));
 ```
+## Contribution 🤝
+
+If you have any questions or suggestions, feel free to open an Issue or submit a Pull Request. Thanks for your contribution!
+
+## License 📄
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
